@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require 'pagerduty_rest_api/client'
+require 'pagerduty_rest_api/http_transport'
 require 'pagerduty_rest_api/version'
 
 module PagerdutyRestApi
